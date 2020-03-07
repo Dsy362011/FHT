@@ -14,4 +14,8 @@ public class FirstClass {
         System.out.println("hello world");
         System.out.println("hello world");
     }
+
+    public void test(){
+        System.out.println("==============");
+    }
 }
